@@ -8,7 +8,5 @@ test@test.com / 12345
 
 ![first](/public/readme/main.png)
 
-![second](/public/readme/signup.png)
-
 ![fourth](/public/readme/post.png)
 
